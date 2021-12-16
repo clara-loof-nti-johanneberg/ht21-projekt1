@@ -1,0 +1,142 @@
+#wrapper {
+display: flex;
+flex-wrap: wrap;
+}
+
+header {
+background-color: rgb(255, 255, 255);
+width: 100vw;
+height: 100px;
+display: flex;
+justify-content: center;
+font-size: 50px;
+padding-top: 30px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#left {
+width: 50%;
+}
+
+#bmx {
+background-color: rgb(206, 173, 134);
+height: 50px;
+display: flex;
+font-size: 30px;
+font-style:var(30px);
+font-family:unset;
+padding-left: 35%;
+padding-top: 10px;
+}
+
+#katt {
+background-color: wheat;
+display: flex;
+padding-left: 250px;
+padding-top: 10px;
+font-size: 19px;
+}
+
+#thaimat {
+width: 270px;
+height: 180px;
+padding-top: 10px;
+}
+
+#thaimat2 {
+width: 270px;
+height: 180px;
+}
+
+#korv {
+background-color: wheat;
+height: 228px;
+font-size: 19px;
+padding-left: 250px;
+
+}
+
+#right {
+background-color: wheat;
+width: 50%;
+}
+
+#meny1 {
+background-color: rgb(206, 173, 134);
+height: 50px;
+display: flex;
+font-size: 30px;
+font-style:var(30px);
+padding-left: 40%;
+padding-top: 10px;
+}
+
+#cykel {
+display: flex;
+padding-top: 10px;
+font-size: 19px;
+padding-left: 40%;
+}
+
+#el {
+font-size: 19px;
+padding-left: 40%;
+}
+
+#gryta {
+font-size: 19px;
+padding-left: 40%;
+}
+
+#kebab {
+font-size: 19px;
+padding-left: 40%;
+}
+
+#ulla {
+font-size: 19px;
+padding-left: 40%;
+}
+
+#bil {
+font-size: 19px;
+padding-left: 40%;
+}
+
+#clara {
+font-size: 19px;
+padding-left: 40%;
+}
+
+#eld {
+font-size: 19px;
+padding-left: 40%;
+}
+
+#hus {
+font-size: 19px;
+padding-left: 40%;
+}
+
+#olof {
+font-size: 19px;
+padding-left: 40%;
+}
+
+#berit {
+font-size: 19px;
+padding-left: 40%;
+
+}
+
+#under {
+width: 100%;
+background-color: rgb(206, 173, 134);
+height: 120px;
+}
+
+#igelkott {
+font-size: 25px;
+padding: 40px;
+padding-left: 250px;
+}
